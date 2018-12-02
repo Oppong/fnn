@@ -7,7 +7,7 @@
 
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100 animated fadeIn" src="/img/about.jpg" alt="First slide" >
+      <img class="d-block w-100 animated fadeIn" src="/img/grr.jpg" alt="First slide" >
         <div class="carousel-caption d-md-block">
         <h3 class=" text-center display-5 text-uppercase animated fadeInDown delay-1s font-sans"><strong> Contact Us </strong></h3>
         <p class="text-p text-white text-center animated fadeInUp delay-1s font-sans"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem a quaerat asperiores cupiditate dolores. Quaerat cum, animi voluptatem ipsum qui! </p>

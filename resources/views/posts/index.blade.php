@@ -8,10 +8,10 @@
 
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100 animated fadeIn" src="/img/about.jpg" alt="First slide" >
+      <img class="d-block w-100 animated fadeIn" src="/img/blog.jpg" alt="First slide" >
         <div class="carousel-caption d-md-block">
-        <h3 class=" text-center display-5 text-uppercase animated fadeInDown delay-1s"><strong> Our Blog Page </strong></h3>
-        <p class="text-p text-white text-center animated fadeInUp delay-1s"> Inspirational and Excerpts from the various books we sell </p>
+        <h3 class=" text-center display-5 text-uppercase animated fadeInDown delay-1s"><strong> Our Blog Page</strong></h3>
+        <p class="text-p text-white text-center animated fadeInUp delay-1s"> Inspirational and Christian Life Books</p>
       </div><!-- carousel caption -->
     </div>
   </div>

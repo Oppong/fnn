@@ -8,7 +8,7 @@
 
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100 animated fadeIn" src="/img/about.jpg" alt="First slide" >
+      <img class="d-block w-100 animated fadeIn" src="/img/hbb.jpg" alt="First slide" >
         <div class="carousel-caption d-md-block">
         <h3 class=" text-center display-5 text-uppercase animated fadeInDown delay-1s font-sans"><strong> {{ $gale->name }} Category </strong></h3>
       </div><!-- carousel caption -->
