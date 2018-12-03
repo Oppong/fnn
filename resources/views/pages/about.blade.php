@@ -47,8 +47,21 @@
     <div class="carousel-item active">
       <img class="d-block w-100 animated fadeIn" src="/img/ab.jpg" alt="First slide" height="200" >
         <div class="carousel-caption d-md-block">
-        <h3 class=" text-center display-6 text-uppercase font-sans"><strong> About Us </strong></h3>
-        <p class="text-p text-white text-center font-sans"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem a quaerat asperiores cupiditate dolores. Quaerat cum, animi voluptatem ipsum qui! </p>
+        <h3 class=" text-center display-6 text-uppercase font-sans mb-4"><strong> About Us </strong></h3>
+        <p class="text-p text-white text-center font-sans"> <div class="flex flex-wrap justify-between">
+            <div>
+                <h5 class="">Alumni </h5>
+                <p class="counter">90000</p>
+            </div>
+            <div>
+                <h5 class="">In School </h5>
+                <p>600</p>
+            </div>
+            <div>
+                <h5 class="">Total </h5>
+                <p>600</p>
+            </div>
+        </div> </p>
       </div><!-- carousel caption -->
     </div>
   </div>
